@@ -15,6 +15,7 @@
   --font-family: 'IBM Plex mono', monospace; /* базовый формат для текста*/
   --font-size: 18px; /* размер шрифта*/
   --line-height: 130%; /* интерльяж*/
+  --border-color-defolt: #353430; /* цвет обвотки в обычным режиме*/
   --border-color-hover: rgba(50, 49, 45, 0.4); /* цвет обвотки при навидении*/
   --header-title-color: #FFC2E6; /* цвет для заголовка*/
   --subtitle-color: #353430; /* цвет для подзаголовков и вначале параграфа*/
@@ -24,6 +25,7 @@
   --color-shadow: #FF8DCB; /* цвет тени у заголовка*/
   --color-subtitle-back: #FF8DCB; /* цвет фона подзаголовка*/
   --color-shadow-link: #FF8DCB; /* цвет тени у ссылки*/
+  --color-paragraph: #353430; /* цвет Текса парафграфа*/
 }
 
 .page.theme_light .header__elemet-unimportant {
@@ -47,6 +49,7 @@
   --color-shadow: #FF8DCB; /* цвет тени у заголовка*/
   --color-subtitle-back: #FF8DCB; /* цвет фона подзаголовка*/
   --color-shadow-link: #FF8DCB; /* цвет тени у ссылки*/
+  --color-paragraph: #353430; /* цвет Текса парафграфа*/
   }
   .header__elemet-unimportant {
     visibility: hidden;

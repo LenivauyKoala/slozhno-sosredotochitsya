@@ -17,6 +17,7 @@
   --line-height: 130%; /* интерльяж*/
   --text-color: #ff0070; /* цвет для текста*/
   --link-color: #f1b2ce; /* цвет ссылки*/
+  --border-color-defolt: #FF0070; /* цвет обвотки в обычным режиме*/
   --border-color-hover: rgb(255 0 112/ 0.4); /* цвет обвотки при навидении*/
   --header-title-color: #db00ff; /* цвет для заголовка*/
   --subtitle-color: #000028; /* цвет для подзаголовков и вначале параграфа*/
@@ -24,4 +25,5 @@
   --color-shadow: #ff0070; /* цвет тени у заголовка*/
   --color-subtitle-back: #ff0070; /* цвет фона подзаголовка*/
   --color-shadow-link: #ff0070; /* цвет тени у ссылки*/
+  --color-paragraph: #F1B2CE; /* цвет Текса парафграфа*/
 }
